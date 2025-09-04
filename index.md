@@ -23,4 +23,4 @@ How to code and know how to create interesting games
 
 
 ---
-*Update this page by editing `index.md` in your repository.*
+
